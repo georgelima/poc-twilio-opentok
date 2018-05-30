@@ -1,0 +1,15 @@
+{
+  "name": "poc-twilio-stream",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "opentok": "^2.6.2",
+    "styled-components": "^3.3.0",
+    "twilio": "^3.17.1",
+    "uuid": "^3.2.1"
+  }
+}
